@@ -8,5 +8,7 @@ editor: visual
 
 ```{r}
 something <- "Something"
+
+something_else <- "Something_else"
 ```
 
